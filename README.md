@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @IloveSQL-dotcom
-- 👀 I’m interested in hacking, programming and quantum computing.
-- 🌱 I’m currently learning Python, Java, JavaScript, SQL, PHP, HTML and CSS.
-- 💞️ I’m looking to collaborate on learning to visualize data, to learn hack and manipulate data, to code a quantum computer and just to programm.
+- 👀 I’m interested in many things.
+- 🌱 I’m currently learning Python, JavaScript, HTML and CSS.
+- 💞️ I’m looking to collaborate on... (I dunno yet)
 - 📫 How to reach me ...
 - 😄 Pronouns: ... (Call me how you wan't, I don't care)
-- ⚡ Fun fact: PYTHON IS THE BEST OF ALL PROGRAMMING LANGUAGES!
+- ⚡ Fun fact: PYTHON IS THE BEST OF ALL PROGRAMMING LANGUAGES (and maybe JavaScript too :))!
 
 <!---
 IloveSQL-dotcom/IloveSQL-dotcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
